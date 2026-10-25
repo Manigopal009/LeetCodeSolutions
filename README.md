@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Manigopal009/LeetCodeSolutions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Manigopal009/LeetCodeSolutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Manigopal009/LeetCodeSolutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Manigopal009/LeetCodeSolutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -69,6 +70,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Manigopal009/LeetCodeSolutions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Manigopal009/LeetCodeSolutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -100,4 +102,16 @@
 | ------- |
 | [2409-count-days-spent-together](https://github.com/Manigopal009/LeetCodeSolutions/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Manigopal009/LeetCodeSolutions/tree/master/3863-minimum-operations-to-sort-a-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Manigopal009/LeetCodeSolutions/tree/master/1254-number-of-closed-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Manigopal009/LeetCodeSolutions/tree/master/1254-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Manigopal009/LeetCodeSolutions/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
