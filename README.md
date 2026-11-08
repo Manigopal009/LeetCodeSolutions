@@ -7,6 +7,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Manigopal009/LeetCodeSolutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Manigopal009/LeetCodeSolutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/Manigopal009/LeetCodeSolutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Manigopal009/LeetCodeSolutions/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Manigopal009/LeetCodeSolutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1882-process-tasks-using-servers](https://github.com/Manigopal009/LeetCodeSolutions/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Manigopal009/LeetCodeSolutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Manigopal009/LeetCodeSolutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Manigopal009/LeetCodeSolutions/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Manigopal009/LeetCodeSolutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Manigopal009/LeetCodeSolutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
@@ -136,17 +138,20 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Manigopal009/LeetCodeSolutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Manigopal009/LeetCodeSolutions/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Manigopal009/LeetCodeSolutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Manigopal009/LeetCodeSolutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Manigopal009/LeetCodeSolutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Manigopal009/LeetCodeSolutions/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Manigopal009/LeetCodeSolutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Manigopal009/LeetCodeSolutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Manigopal009/LeetCodeSolutions/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Manigopal009/LeetCodeSolutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/Manigopal009/LeetCodeSolutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Manigopal009/LeetCodeSolutions/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -169,4 +174,8 @@
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/Manigopal009/LeetCodeSolutions/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Manigopal009/LeetCodeSolutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Manigopal009/LeetCodeSolutions/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
